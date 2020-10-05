@@ -4474,12 +4474,12 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M"/>
-<part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C"/>
-<part name="JP1" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK"/>
-<part name="JP2" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK"/>
-<part name="JP3" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK"/>
-<part name="JP4" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK"/>
-<part name="RN1" library="resistor-sil" deviceset="G04R" device=""/>
+<part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ12/6"/>
+<part name="JP1" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
+<part name="JP2" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
+<part name="JP3" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
+<part name="JP4" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
+<part name="RN1" library="resistor-sil" deviceset="G04R" device="" value="1K0"/>
 </parts>
 <sheets>
 <sheet>
