@@ -4473,7 +4473,7 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 </classes>
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
-<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M"/>
+<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M" value="OSHW"/>
 <part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ12/6"/>
 <part name="JP1" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
 <part name="JP2" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
